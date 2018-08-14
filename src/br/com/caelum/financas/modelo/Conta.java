@@ -1,4 +1,4 @@
-package br.com.caelum.financas;
+package br.com.caelum.financas.modelo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
