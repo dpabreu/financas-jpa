@@ -14,9 +14,9 @@ public class TesteConta {
 		try {
 			Conta conta = new Conta();
 			conta.setTitular("Daniel");
-			conta.setNumero("123");
-			conta.setBanco("Itau");
-			conta.setAgencia("456");
+			conta.setNumero("11641-6");
+			conta.setBanco("Banco do Brasil");
+			conta.setAgencia("3114-3");
 			
 			em.getTransaction().begin();
 			
